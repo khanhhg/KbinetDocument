@@ -1,6 +1,6 @@
 //site_name: My Docs
 site_name: KBINET
-site_url: https://example.com/
+site_url: https://khanhhg.github.io/KbinetDocument/
 nav:
     - Home: 'index.md'
     - Đăng nhập vào phần mềm: 'login.md'
