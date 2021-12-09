@@ -1,0 +1,19 @@
+//site_name: My Docs
+site_name: KBINET
+site_url: https://example.com/
+nav:
+    - Home: 'index.md'
+    - Đăng nhập vào phần mềm: 'login.md'
+    - Quản lý đơn vị: 'quan_ly_don_vi.md'
+    - Quản lý phòng ban: 'quan_ly_phong_ban.md'
+    - Quản lý chức vụ: 'quan_ly_chuc_vu.md'
+    - Quản lý người dùng: 'quan_ly_nguoi_dung.md'
+    - Quản lý khách mời: 'quan_ly_khac_moi.md'
+    - Quản lý thiết bị: 'quan_ly_thiet_bi.md'
+    - Quản lý phòng họp: 'quan_ly_phong_hop.md'
+    - Quản lý biểu quyết: 'quan_ly_bieu_quyet.md'
+    - Quản lý phiên họp: 'quan_ly_phien_hop.md'
+    - Quản lý duyệt và công bố phiên họp: 'quan_ly_duyet_phien_hop.md'
+    - Quản lý thông báo: 'quan_ly_thong_bao.md'
+
+theme: readthedocs
